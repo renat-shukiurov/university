@@ -180,7 +180,6 @@ for (const f of fridges) {
     </div>
     `
 }
-
 html += "</div>"
 
 const app = document.getElementById("app");
